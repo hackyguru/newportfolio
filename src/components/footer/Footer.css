@@ -1,0 +1,21 @@
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+}
+
+.footer-div {
+  margin-top: 2rem;
+}
+ .name-logo{
+  font-family: "Julietta Messie";
+  font-weight: bold;
+  padding: 0 10px;
+  font-size: 2em;
+  text-decoration: none;
+  line-height: normal;
+  display: inline;
+  /* color: #55198b; */
+
+}

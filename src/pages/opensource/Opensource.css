@@ -1,0 +1,12 @@
+.opensource-main {
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .test{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: -80px;
+  }
+}
