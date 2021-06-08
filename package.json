@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "hackyguru",
-  "homepage": "https://hackyguru.github.io/portfoliov3/",
+  "homepage": "https://hackyguru.github.io/newportfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
